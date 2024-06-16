@@ -1,0 +1,7 @@
+huggingface_hub
+langchain
+tiktoken
+gradio
+transformers
+pip>=23.2
+gradio_client==0.2.7
